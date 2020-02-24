@@ -1,0 +1,3 @@
+[submodule "data-science-ipython-notebooks"]
+	path = data-science-ipython-notebooks
+	url = https://github.com/alfmunny/data-science-ipython-notebooks
